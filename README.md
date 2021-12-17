@@ -18,6 +18,8 @@ Provide daily IT support for the company.
 
 [Automate PhantomBuster Scraping](https://github.com/marleyrosario/mainstreetone_/blob/main/PhantomBuster/clone_pb_api.py)
 
+[Connect to Quickbooks API, Retrieve and Alter Data](https://github.com/marleyrosario/mainstreetone_/blob/main/quickbooks_itworked.py)
+
 ### Artificial Intelligence
 
 ### Data Computing and Visualizations
