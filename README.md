@@ -8,7 +8,7 @@ Streamline daily operations through full stack development that assists the digi
 Use Python, SQL, and Google’s API to create and analyze metric data for client reports.
 Provide daily IT support for the company.
 
-<p style="text-align: center;">**Highlighted Projects**</p>
+<p style="align= center">**Highlighted Projects**</p>
 [Comments Scraper](https://github.com/marleyrosario/mainstreetone_/blob/main/CommentsScraper.py)
 
 [Merge Files in Google Cloud Buckets -- Automatic](https://github.com/marleyrosario/mainstreetone_/blob/main/bucketmerge.py)
