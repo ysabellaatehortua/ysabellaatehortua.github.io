@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [Ysabella Atehortua]
-logo: "/ysabellaatehortua.github.io/ysabellaatenhortua-014_1_0.jpeg"
+image: "/ysabellaatehortua.github.io/ysabellaatenhortua-014_1_0.jpeg"
 
