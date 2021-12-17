@@ -1,10 +1,29 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/ysabellaatehortua/ysabellaatehortua.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Main Street One
+Technical Operations Fellow, New York, New York (remote)
+July 2021 - Present
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Streamline daily operations through full stack development that assists the digital relations team.
+Use Python, SQL, and Google’s API to create and analyze metric data for client reports.
+Provide daily IT support for the company.
 
-### Markdown
+**Highlighted Projects**
+[Comments Scraper](https://github.com/marleyrosario/mainstreetone_/blob/main/CommentsScraper.py)
+
+[Merge Files in Google Cloud Buckets -- Automatic](https://github.com/marleyrosario/mainstreetone_/blob/main/bucketmerge.py)
+
+[Merge Files in Google Cloud Buckets -- Manual](https://github.com/marleyrosario/mainstreetone_/blob/main/BQCON/IFC_merge.py)
+
+[Automate PhantomBuster Scraping](https://github.com/marleyrosario/mainstreetone_/blob/main/PhantomBuster/clone_pb_api.py)
+
+### Artificial Intelligence
+
+### Data Computing and Visualizations
+
+### Programming Abstractions
+
+### Computer Architecture
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
