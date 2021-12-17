@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Main Street One
+### Main Street One 
 Technical Operations Fellow, New York, New York (remote)
 July 2021 - Present
 
@@ -21,6 +21,8 @@ Provide daily IT support for the company.
 [Markov Decision Problem - Robotic Wildfire Supression](https://github.com/ysabellaatehortua/ArtificialIntelligence/tree/main/hw3-mdps-ysabellaatehortua)
 
 ### Data Computing and Visualizations
+[Mix.AI](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README.html) || [Mix.AI](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README%20(1).rmd) 
+
 
 ### Programming Abstractions
 
