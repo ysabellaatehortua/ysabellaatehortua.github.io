@@ -9,7 +9,6 @@ Use Python, SQL, and Google’s API to create and analyze metric data for client
 Provide daily IT support for the company.
 
 <p style="text-align: center;">**Highlighted Projects**</p>
-
 [Comments Scraper](https://github.com/marleyrosario/mainstreetone_/blob/main/CommentsScraper.py)
 
 [Merge Files in Google Cloud Buckets -- Automatic](https://github.com/marleyrosario/mainstreetone_/blob/main/bucketmerge.py)
@@ -22,8 +21,11 @@ Provide daily IT support for the company.
 
 ### Artificial Intelligence
 [Mix.AI](https://github.com/ysabellaatehortua/Mixai)
+
 [Search Algorithms](https://github.com/ysabellaatehortua/ArtificialIntelligence/tree/main/hw1-search-ysabellaatehortua)
+
 [Sudoku Solver](https://github.com/ysabellaatehortua/ArtificialIntelligence/tree/main/hw2-sudoku-ysabellaatehortua)
+
 [Markov Decision Problem - Robotic Wildfire Supression](https://github.com/ysabellaatehortua/ArtificialIntelligence/tree/main/hw3-mdps-ysabellaatehortua)
 
 ### Data Computing and Visualizations
