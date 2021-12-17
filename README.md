@@ -25,12 +25,8 @@ Provide daily IT support for the company.
 
 
 ### Programming Abstractions
+[Scheme and Racket Practice](https://github.com/ysabellaatehortua/Abstractions) || 
+[MiniScheme Interpreter](https://github.com/ysabellaatehortua/Abstractions/tree/main/su21-hw7-eamon-ysa)
 
 ### Computer Architecture
-
-```markdown
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[Bitwise Operations](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab2-ysabellaatehortua) || [Fibonacci in MIPS](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab3-ysa-and-loren) || [MIPS Arrays](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab4-ysa-loren) || [IEEE Floating Point Standard](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab8-ysa-loren-1) || [Cache Simulator](https://github.com/ysabellaatehortua/Architecture/tree/main/final-project-ysa-loren-final)
