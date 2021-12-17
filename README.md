@@ -3,7 +3,6 @@
 ### Main Street One 
 Technical Operations Fellow, New York, New York (remote)
 July 2021 - Present
-
 Streamline daily operations through full stack development that assists the digital relations team.
 Use Python, SQL, and Google’s API to create and analyze metric data for client reports.
 Provide daily IT support for the company.
