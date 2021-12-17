@@ -21,7 +21,7 @@ Provide daily IT support for the company.
 [Markov Decision Problem - Robotic Wildfire Supression](https://github.com/ysabellaatehortua/ArtificialIntelligence/tree/main/hw3-mdps-ysabellaatehortua)
 
 ### Data Computing and Visualizations
-[Mix.AI](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README.html) || [Mix.AI](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README%20(1).rmd) 
+[Traits of the Most Popular Songs in 2018](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README.rmd) || [Does Rolling Stone Accurately Represent People's Music Taste?](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README%20(1).rmd) 
 
 
 ### Programming Abstractions
