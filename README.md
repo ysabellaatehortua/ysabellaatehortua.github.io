@@ -9,6 +9,7 @@ Use Python, SQL, and Google’s API to create and analyze metric data for client
 Provide daily IT support for the company.
 
 **Highlighted Projects**
+
 [Comments Scraper](https://github.com/marleyrosario/mainstreetone_/blob/main/CommentsScraper.py)
 
 [Merge Files in Google Cloud Buckets -- Automatic](https://github.com/marleyrosario/mainstreetone_/blob/main/bucketmerge.py)
