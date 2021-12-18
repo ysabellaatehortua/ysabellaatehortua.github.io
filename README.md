@@ -24,16 +24,21 @@ A study of the techniques currently being used in programs that mimic intelligen
 ### Data Computing and Visualizations
 Studied the principles and practice of creating informative and effective data visualizations to summarize and describe patterns in potentially large and complex datasets. In the service of effective and reproducible visualization, principles and tools for automating data manipulation (for example, scraping data from the web, merging data from multiple sources, and cleaning, filtering, and transforming data). Selected topics from machine learning, such as dimensionality reduction and clustering, approached from an applied perspective.
 
-[Traits of the Most Popular Songs in 2018](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README.rmd) || [Does Rolling Stone Accurately Represent People's Music Taste?](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README%20(1).rmd) 
+[Traits of the Most Popular Songs in 2018](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README.rmd) ||
+[Does Rolling Stone Accurately Represent People's Music Taste?](https://github.com/ysabellaatehortua/DataCompVisualizations/blob/main/README%20(1).rmd) 
 
 
 ### Programming Abstractions
 Studied closures, first-class data structures, procedure and data abstraction, object-oriented programming, continuations, compilation and interpretation, and syntactic extensions as well as coroutines and asynchronous interrupts.
 
-[Scheme and Racket Practice](https://github.com/ysabellaatehortua/Abstractions) || 
+[Scheme and Racket Practice](https://github.com/ysabellaatehortua/Abstractions) ||
 [MiniScheme Interpreter](https://github.com/ysabellaatehortua/Abstractions/tree/main/su21-hw7-eamon-ysa)
 
 ### Computer Architecture
 Computer architecture and assembly language programming. Explored digital logic, register transfer, and instruction set architecture levels. Emphasis placed on the design of a CPU and on the role of the CPU within a computer system.
 
-[Bitwise Operations](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab2-ysabellaatehortua) || [Fibonacci in MIPS](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab3-ysa-and-loren) || [MIPS Arrays](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab4-ysa-loren) || [IEEE Floating Point Standard](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab8-ysa-loren-1) || [Cache Simulator](https://github.com/ysabellaatehortua/Architecture/tree/main/final-project-ysa-loren-final)
+[Bitwise Operations](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab2-ysabellaatehortua) ||
+[Fibonacci in MIPS](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab3-ysa-and-loren) || 
+[MIPS Arrays](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab4-ysa-loren) || 
+[IEEE Floating Point Standard](https://github.com/ysabellaatehortua/Architecture/tree/main/su21_lab8-ysa-loren-1) || 
+[Cache Simulator](https://github.com/ysabellaatehortua/Architecture/tree/main/final-project-ysa-loren-final)
