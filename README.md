@@ -1,18 +1,5 @@
 ## Portfolio
 
-### Main Street One 
-Technical Operations Fellow, New York, New York (remote)
-July 2021 - Present
-Streamline daily operations through full stack development that assists the digital relations team.
-Use Python, SQL, and Google’s API to create and analyze metric data for client reports.
-Provide daily IT support for the company.
-
-[Comments Scraper](https://github.com/marleyrosario/mainstreetone_/blob/main/CommentsScraper.py) || 
-[Merge Files in Google Cloud Buckets -- Automatic](https://github.com/marleyrosario/mainstreetone_/blob/main/bucketmerge.py) ||
-[Merge Files in Google Cloud Buckets -- Manual](https://github.com/marleyrosario/mainstreetone_/blob/main/BQCON/IFC_merge.py) ||
-[Automate PhantomBuster Scraping](https://github.com/marleyrosario/mainstreetone_/blob/main/PhantomBuster/clone_pb_api.py) ||
-[Connect to Quickbooks API, Retrieve and Alter Data](https://github.com/marleyrosario/mainstreetone_/blob/main/quickbooks_itworked.py)
-
 ### Artificial Intelligence
 A study of the techniques currently being used in programs that mimic intelligent or human behavior. Topics include machine learning, search strategies, and knowledge representation.
 
